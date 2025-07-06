@@ -28,9 +28,9 @@ My goal is to develop embodied navigation agents capable of autonomously perceiv
 - 03/2024: One paper was accepted to IEEE DDCLS 2024 about visual SLAM! 
 - 05/2023: I gave an oral presentation on visual SLAM at IEEE DDCLS 2023!
 
-**Publications**
+**Publications** (co-first authors: <sup>*</sup>, corresponding authors: <sup>#</sup>)
 
 - Haozhou Li, Xiangyu Dong, Xiaoguang Ma, "MR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval", IEEE TASE, 2025, under review.
-- Jiang Gao, Xiangyu Dong, Xiaoguang Ma, "PM-Nav: Prior-Map Guided Vision-Language Navigation in Public Buildings", IEEE RAL, 2025, under review.
-- Xiangyu Dong, Xiaoguang Ma, "SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models", IEEE RAL, 2025, under review.
-- Xiangyu Dong, Xiaoguang Ma, "SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal LLM for Consumer Electronics", IEEE TCE, 2025, under review.
+- Jiang Gao<sup>*</sup>, Xiangyu Dong<sup>*</sup>, Xiaoguang Ma<sup>#</sup>, "PM-Nav: Prior-Map Guided Vision-Language Navigation in Public Buildings", IEEE RAL, 2025, under review.
+- Xiangyu Dong, Xiaoguang Ma<sup>#</sup>, "SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models", IEEE RAL, 2025, under review.
+- Xiangyu Dong, Xiaoguang Ma<sup>#</sup>, "SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal LLM for Consumer Electronics", AAAI 2025, under review.
