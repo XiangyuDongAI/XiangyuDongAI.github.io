@@ -31,6 +31,6 @@ My goal is to develop embodied navigation agents capable of autonomously perceiv
 **Publications** (co-first authors: *, corresponding authors: #)
 
 - Haozhou Li, Xiangyu Dong, Xiaoguang Ma #, "MR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval", IEEE TASE, 2025, under review.
-- Jiang Gao *, Xiangyu Dong *, Xiaoguang Ma #, "PM-Nav: Prior-Map Guided Vision-Language Navigation in Public Buildings", IEEE RAL, 2025, under review.
-- Xiangyu Dong, Xiaoguang Ma #, "SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models", IEEE RAL, 2025, under review.
-- Xiangyu Dong, Xiaoguang Ma #, "SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal LLMs", Submitted to AAAI 2025.
+- Jiang Gao *, Xiangyu Dong *, Haozhou Li, Haoran Zhao, Yaoming Zhao, Xiaoguang Ma #, "PM-Nav: Prior-Map Guided Vision-Language Navigation in Public Buildings", IEEE RAL, 2025, under review.
+- Xiangyu Dong, Jiang Gao, Haozhou Li, Xiaoguang Ma #, Wei Meng, Zhengtao Hu, "SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models", IEEE RAL, 2025, under review.
+- Xiangyu Dong, Jiang Gao, Haozhou Li, Haoran Zhao, Yaoming Zhao, Wenqiang Lei, Xiaoguang Ma #, "SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal LLMs", Submitted to AAAI 2025.
