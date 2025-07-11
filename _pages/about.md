@@ -31,6 +31,6 @@ My current research focuses on developing lifelong learning embodied navigation 
 **Publications** (co-first authors: *, corresponding authors: #)
 
 - Haozhou Li, __Xiangyu Dong__, Xiaoguang Ma #, "MR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval", IEEE TASE, 2025, under review.
-- Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhao, Xiaoguang Ma #, "PM-Nav: Prior-Map Guided Vision-Language Navigation in Public Buildings", IEEE RAL, 2025, under review.
+- Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma #, "PM-Nav: Prior-Map Guided Vision-Language Navigation in Public Buildings", IEEE RAL, 2025, under review.
 - __Xiangyu Dong__, Jiang Gao, Haozhou Li, Xiaoguang Ma #, Wei Meng, Zhengtao Hu, "SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models", IEEE RAL, 2025, under review.
-- __Xiangyu Dong__, Jiang Gao, Haozhou Li, Haoran Zhao, Yaoming Zhao, Wenqiang Lei, Xiaoguang Ma #, "SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal LLMs", Submitted to AAAI 2025.
+- __Xiangyu Dong__, Jiang Gao, Haozhou Li, Haoran Zhao, Yaoming Zhou, Wenqiang Lei, Xiaoguang Ma #, "SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal LLMs", Submitted to AAAI 2025.
