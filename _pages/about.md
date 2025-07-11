@@ -14,7 +14,7 @@ Feel free to contact me by email if you are interested in discussing or collabor
 
 **Research Vision**
 
-My current research focuses on developing lifelong learning embodied navigation agents with human-like autonomous reflection capabilities, and exploring their applications in aerial and ground robots. In the long run, the research vision is to build embodied agents that can autonomously accomplish the processes of perception, decision-making, and learning in a human-like manner. To achieve this, I primarily focus on:
+My current research focuses on developing lifelong learning embodied navigation agents with human-like autonomous reflection capabilities, and exploring their applications in aerial and ground robots. In the long run, my research vision is to build embodied agents that can autonomously accomplish the processes of perception, decision-making, and learning in a human-like manner. To achieve this, I primarily focus on:
 1. Language-driven visual navigation (e.g., VLN and ObjectNav).
 2. Large foundation models (e.g., LLMs and VLMs) and their training techniques.
 4. Lifelong learning of LLM / VLM-powered agents.
