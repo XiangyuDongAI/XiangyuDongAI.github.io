@@ -22,7 +22,7 @@ My current research focuses on developing lifelong learning embodied navigation 
 
 **News**
 
-- 05/2025: I collaborated with [Tianmushan Laboratory](https://www.tmslab.cn/) on research into Agentic UAVs, with Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm) from Beihang University serving as the co-supervisor!
+- 05/2025: I collaborated with [Tianmushan Laboratory](https://www.tmslab.cn/) on research into Agentic UAVs, co-supervised by Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm)!
 - 06/2024: I obtained my Master's degree from Zhejiang University of Technology!
 - 09/2024: One paper was accepted to Chinese Journal of Sensors and Actuators about visual SLAM! 
 - 05/2024: I joined Professor Xiaoguang Ma's laboratory!
