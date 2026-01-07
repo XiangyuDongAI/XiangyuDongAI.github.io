@@ -58,6 +58,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 - Large foundation models (e.g., LLMs and VLMs) and their training techniques.
 - Lifelong learning of LLM / VLM-powered agents.
 - Vision-Language-Action models and their applications.
+- Worlds models and their applications.
 
 # 🔥 News
 <div class="scrollable-box">
