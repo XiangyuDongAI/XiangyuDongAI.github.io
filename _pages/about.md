@@ -58,12 +58,11 @@ My current research focuses on developing self-improving / self-evolving embodie
 - Large foundation models (e.g., LLMs and VLMs) and their training techniques.
 - Lifelong learning of LLM / VLM-powered agents.
 - Vision-Language-Action models and their applications.
-- Worlds models and their applications.
+- World models and their applications.
 
 # 🔥 News
 <div class="scrollable-box">
   <ul>
-    <li> 2025.12: &nbsp;🎉🎉 One paper “<a href="https://arxiv.org/pdf/2507.13152" target="_blank">SE-VLN</a>” is accepted by ACSAT 2025!</li>
     <li> 2025.10: &nbsp;🎉🎉 One national invention patent on <a href="https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917UQpMHd6x69ed_Qw1HzLZ-AkE2PaeUWZpFKFtQG3IacdRt0HQx8Nr7oY9ChzJVekWrUf3wQEZ7v10MSNaFDERyQKVNz9nTWaZiSEBiyqGXo_nVme1EWem3PiAzrK0RTmwocxQBlnxtkX7P2otC0BYiFZ9pORJa27TT1h9QsLoKYLA==&uniplatform=NZKPT&language=CHS" target="_blank">visual SLAM</a> is authorized!</li>
     <li> 2025.07: &nbsp;🎉🎉 Our work “<a href="https://arxiv.org/pdf/2507.13152" target="_blank">SE-VLN</a>” is unveiled on Arxiv! <a href="https://mp.weixin.qq.com/s/N45mBZE4OD5KmvyJka8N6g?scene=1&click_id=101" target="_blank">[视觉语言导航]</a></li>
     <li> 2025.06: &nbsp;🎉🎉 One national invention patent on <a href="https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917UQpMHd6x69ed_Qw1HzLZ-AkE2PaeUWZpFKFtQG3IacdRt0HQx8Nr7oY9ChzJVekWrUf3wQEZ7v10MSNaFDERyQKVNz9nTWaZiSEBiyqGXo_nVme1EWem3PiAzrK0RTmwocxQBlnxtkX7P2otC0BYiFZ9pORJa27TT1h9QsLoKYLA==&uniplatform=NZKPT&language=CHS" target="_blank">visual SLAM</a> is authorized!</li>
@@ -84,25 +83,23 @@ My current research focuses on developing self-improving / self-evolving embodie
 </div>
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACSAT 2025</div><img src='images/se-vln.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/se-vln.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models](https://arxiv.org/abs/2507.13152)
 
 __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Yaoming Zhou <sup>†</sup>, Fuhai Chen, Juan Liu.
 
-2025 2nd International Conference on Advanced Control Systems and Automation Technology (ACSAT 2025).
-
 [**Introduction**]((https://example.com/paper1)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We drew inspiration from the evolution capabilities of natural agents, and proposed a self-evolving VLN framework (SE-VLN) to endow VLN agents with the ability to continuously evolve during testing. To the best of our knowledge, it was the first time that an multimodal LLM-powered training-free self-evolving VLN framework was proposed.
 </div>
 </div>
 - [SEMA-VLN: A Self-Evolving Multi-Agent Vision-Language Navigation Framework Based on Foundation Models](https://example.com/paper1), __Xiangyu Dong__, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Wei Meng, Zhengtao Hu.
-- [CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval](https://example.com/paper1), Haozhou Li *, __Xiangyu Dong *__, Huiyan Jiang, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
+- [CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval](https://example.com/paper1), Haozhou Li *, __Xiangyu Dong *__, Huiyan Jiang, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
 <!-- - [Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation](https://example.com/paper1), Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to IEEE RAL 2025. -->
-<!-- - [CD-VLN: Boosting Language-Goal Aerial Navigation with Open-Source LLMs via Cognitive Perception and Dual-System Decision-Making](https://example.com/paper1), __Xiangyu Dong__, Shaoxuan Li, Haoyu Tong, Runpeng Wang, Xiaoguang Ma <sup>†</sup>, Submitted to CVPR 2026. -->
-- [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
-- [Self-Evolving Aerial Vision-Language Navigation](https://example.com/paper1), Haoyu Tong *, __Xiangyu Dong *__, Haoran Zhao, Yaoming Zhou <sup>†</sup>, Xiaoguang Ma <sup>†</sup>, Submitted to ACL 2026.
+<!-- - [CD-VLN: Boosting Language-Goal Aerial Navigation with Open-Source LLMs via Cognitive Perception and Dual-System Decision-Making](https://example.com/paper1), __Xiangyu Dong__, Shaoxuan Li, Haoyu Tong, Runpeng Wang, Xiaoguang Ma <sup>†</sup>. -->
+- [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
+- [Self-Evolving Aerial Vision-Language Navigation](https://example.com/paper1), Haoyu Tong *, __Xiangyu Dong *__, Haoran Zhao, Yaoming Zhou <sup>†</sup>, Xiaoguang Ma <sup>†</sup>.
 
 (co-first authors: *, corresponding authors: †)
 
