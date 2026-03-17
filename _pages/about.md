@@ -95,11 +95,9 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 </div>
 </div>
 - [SEMA-VLN: A Self-Evolving Multi-Agent Vision-Language Navigation Framework Based on Foundation Models](https://example.com/paper1), __Xiangyu Dong__, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Wei Meng, Zhengtao Hu.
-- [CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval](https://example.com/paper1), Haozhou Li *, __Xiangyu Dong *__, Huiyan Jiang, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
-<!-- - [Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation](https://example.com/paper1), Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to IEEE RAL 2025. -->
-<!-- - [CD-VLN: Boosting Language-Goal Aerial Navigation with Open-Source LLMs via Cognitive Perception and Dual-System Decision-Making](https://example.com/paper1), __Xiangyu Dong__, Shaoxuan Li, Haoyu Tong, Runpeng Wang, Xiaoguang Ma <sup>†</sup>. -->
-- [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
-- [Self-Evolving Aerial Vision-Language Navigation](https://example.com/paper1), Haoyu Tong *, __Xiangyu Dong *__, Haoran Zhao, Yaoming Zhou <sup>†</sup>, Xiaoguang Ma <sup>†</sup>.
+- [CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval](https://doi.org/10.48550/arXiv.2603.07997), Haozhou Li *, __Xiangyu Dong *__, Huiyan Jiang, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
+- [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://arxiv.org/abs/2603.09113), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
+- [ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation](https://doi.org/10.48550/arXiv.2603.08007), Haoyu Tong *, __Xiangyu Dong *__, Haoran Zhao, Yaoming Zhou <sup>†</sup>, Xiaoguang Ma <sup>†</sup>.
 
 (co-first authors: *, corresponding authors: †)
 
@@ -122,8 +120,8 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - *2023.05*: “A Robust Visual SLAM Based on Key Point Instantaneous Rate Identification in Dynamic Environments”, 2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). 
 
 # 💻 Internships
-<!-- - *2025.05 - Present*: [Tianmushan Laboratory](https://www.tmslab.cn/), co-supervisor: Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm). -->
-- *2024.05 - Present*: [Northeastern University](http://www.fsgraduate.neu.edu.cn/), supervisor: Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/1108/c6151a206223/page.htm).
+- *2025.05 - Present*: [Tianmushan Laboratory](https://www.tmslab.cn/), co-supervisor: Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm). 
+- *2024.05 - 2026.08*: [Northeastern University](http://www.fsgraduate.neu.edu.cn/), supervisor: Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/1108/c6151a206223/page.htm).
 
 # 🛠 Social Services
-- Reviewer: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026).
+- Reviewer: AAAI 2026, IROS2026.
