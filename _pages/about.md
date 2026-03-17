@@ -63,6 +63,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 # 🔥 News
 <div class="scrollable-box">
   <ul>
+    <li> 2025.07: &nbsp;🎉🎉 Our works “<a href="https://arxiv.org/abs/2603.09113" target="_blank">PM-Nav</a>, <a href="https://doi.org/10.48550/arXiv.2603.07997" target="_blank">CMMR-VLN</a>, <a href="https://doi.org/10.48550/arXiv.2603.08007" target="_blank">ViSA-Enhanced Aerial VLN</a>” are unveiled on Arxiv! </li>
     <li> 2025.10: &nbsp;🎉🎉 One national invention patent on <a href="https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917UQpMHd6x69ed_Qw1HzLZ-AkE2PaeUWZpFKFtQG3IacdRt0HQx8Nr7oY9ChzJVekWrUf3wQEZ7v10MSNaFDERyQKVNz9nTWaZiSEBiyqGXo_nVme1EWem3PiAzrK0RTmwocxQBlnxtkX7P2otC0BYiFZ9pORJa27TT1h9QsLoKYLA==&uniplatform=NZKPT&language=CHS" target="_blank">visual SLAM</a> is authorized!</li>
     <li> 2025.07: &nbsp;🎉🎉 Our work “<a href="https://arxiv.org/pdf/2507.13152" target="_blank">SE-VLN</a>” is unveiled on Arxiv! <a href="https://mp.weixin.qq.com/s/N45mBZE4OD5KmvyJka8N6g?scene=1&click_id=101" target="_blank">[视觉语言导航]</a></li>
     <li> 2025.06: &nbsp;🎉🎉 One national invention patent on <a href="https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917UQpMHd6x69ed_Qw1HzLZ-AkE2PaeUWZpFKFtQG3IacdRt0HQx8Nr7oY9ChzJVekWrUf3wQEZ7v10MSNaFDERyQKVNz9nTWaZiSEBiyqGXo_nVme1EWem3PiAzrK0RTmwocxQBlnxtkX7P2otC0BYiFZ9pORJa27TT1h9QsLoKYLA==&uniplatform=NZKPT&language=CHS" target="_blank">visual SLAM</a> is authorized!</li>
@@ -120,7 +121,7 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - *2023.05*: “A Robust Visual SLAM Based on Key Point Instantaneous Rate Identification in Dynamic Environments”, 2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). 
 
 # 💻 Internships
-- *2025.05 - Present*: [Tianmushan Laboratory](https://www.tmslab.cn/), co-supervisor: Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm). 
+- *2025.05 - Present*: [Beihang University--Tianmushan Laboratory](https://www.tmslab.cn/), co-supervisor: Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm). 
 - *2024.05 - 2026.08*: [Northeastern University](http://www.fsgraduate.neu.edu.cn/), supervisor: Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/1108/c6151a206223/page.htm).
 
 # 🛠 Social Services
