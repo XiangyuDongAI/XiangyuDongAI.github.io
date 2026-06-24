@@ -115,7 +115,7 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - *2019*: Second Prize, Nantong University "Internet +" College Student Innovation and Entrepreneurship Competition. 
 
 # 📖 Educations
-- *2026.09 - Present*: PHD, College of Information Engineering, Zhejiang University of Technology, Hangzhou, China. 
+- *2026.09 - Expected*: Ph.D., College of Information Science and Engineering, Northeastern University, Shenyang, China.
 - *2021.09 - 2024.06*: Master, College of Information Engineering, Zhejiang University of Technology, Hangzhou, China. 
 - *2017.09 - 2021.06*: Bachelor, School of Transportation and Civil Engineering, Nantong University, Nantong, China. 
 
