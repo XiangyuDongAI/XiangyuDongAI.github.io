@@ -99,7 +99,7 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - [SEMA-VLN: A Self-Evolving Multi-Agent Vision-Language Navigation Framework Based on Foundation Models](https://example.com/paper1), __Xiangyu Dong__, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Wei Meng, Zhengtao Hu.
 - [CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval](https://doi.org/10.48550/arXiv.2603.07997), Haozhou Li *, __Xiangyu Dong *__, Huiyan Jiang, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
 - [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://arxiv.org/abs/2603.09113), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
-- [ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation](https://doi.org/10.48550/arXiv.2603.08007), Haoyu Tong *, __Xiangyu Dong *__, Haoran Zhao, Yaoming Zhou <sup>†</sup>, Xiaoguang Ma <sup>†</sup>.
+- [IROS 2026][ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation](https://doi.org/10.48550/arXiv.2603.08007), Haoyu Tong *, __Xiangyu Dong *__, Haoran Zhao, Yaoming Zhou <sup>†</sup>, Xiaoguang Ma <sup>†</sup>.
 
 (co-first authors: *, corresponding authors: †)
 
