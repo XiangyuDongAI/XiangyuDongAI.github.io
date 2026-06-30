@@ -94,7 +94,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 __Xiangyu Dong__, Zirong Zhang, Maozhi Li, Huanhuan Ke, Xiaoguang Ma <sup>†</sup>.
 
 [**Introduction**]((https://example.com/paper1)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We drew inspiration from the evolution capabilities of natural agents, and proposed a self-evolving VLN framework (SE-VLN) to endow VLN agents with the ability to continuously evolve during testing. To the best of our knowledge, it was the first time that an multimodal LLM-powered training-free self-evolving VLN framework was proposed.
+- This survey examines self-evolving embodied agents as a pathway toward real-world physical intelligence. It defines self-evolution as persistent capability growth through embodied interaction, memory, feedback, reflection, and updating. The paper proposes a unified closed-loop framework, reviews historical progress and key mechanisms, and discusses benchmarks, evaluation protocols, safety governance, open challenges, and future research directions for safe autonomous open-world robotic systems.
 </div>
 </div>
 - **[IROS 2026]** [ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation](https://doi.org/10.48550/arXiv.2603.08007), Haoyu Tong *, __Xiangyu Dong *__, Haoran Zhao, Yaoming Zhou <sup>†</sup>, Xiaoguang Ma <sup>†</sup>.
