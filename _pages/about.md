@@ -86,7 +86,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 </div>
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/fig.2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fig.2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey of Self-Evolving Embodied Agents: On the Path to Real-World Physical Intelligence](https://example.com/paper1)
@@ -103,7 +103,6 @@ __Xiangyu Dong__, Zirong Zhang, Maozhi Li, Huanhuan Ke, Xiaoguang Ma <sup>†</s
 - [CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval](https://doi.org/10.48550/arXiv.2603.07997), Haozhou Li *, __Xiangyu Dong *__, Huiyan Jiang, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
 - [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://arxiv.org/abs/2603.09113), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
 - [LightZeroNav: Zero-Shot Vision Language Navigation in Continuous Environments Based on Lightweight VLMs](https://arxiv.org/pdf/2603.16947), Kun Luo *, __Xiangyu Dong *__, Xiaoguang Ma <sup>†</sup>., Haoran Zhao, and Yaoming Zhou <sup>†</sup>.
-- [A Survey of Self-Evolving Embodied Agents: On the Path to Real-World Physical Intelligence](https://example.com/paper1), __Xiangyu Dong__, Zirong Zhang, Maozhi Li, Huanhuan Ke, Xiaoguang Ma <sup>†</sup>.
 - [CLOSER-VLN: Closed-Loop Self-Verified Retrieval-Augmented Reasoning for Aerial Vision-Language Navigation](https://arxiv.org/abs/2606.28397), Shaoxuan Li *, __Xiangyu Dong *__, Xiaoguang Ma <sup>†</sup>, Junfeng Chen, Haoran Zhao, Yaoming Zhou <sup>†</sup>.
 
 (co-first authors: *, corresponding authors: †)
