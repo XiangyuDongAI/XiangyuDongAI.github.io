@@ -65,7 +65,7 @@ My current research focuses on developing self-improving / self-evolving embodie
   <ul>
     <li> 2026.06: &nbsp;🎉🎉 Our work “<a href="https://arxiv.org/abs/2606.28397" target="_blank">CLOSER-VLN</a>” is unveiled on Arxiv! </li>
     <li> 2026.06: &nbsp;🎉🎉 Our paper "<a href="https://doi.org/10.48550/arXiv.2603.08007" target="_blank">ViSA-Enhanced Aerial VLN</a>" is accepted to IEEE/RSJ IROS 2026!</li>
-    <li> 2026.03: &nbsp;🎉🎉 Our works “<a href="https://arxiv.org/abs/2603.09113" target="_blank">PM-Nav</a>, <a href="https://doi.org/10.48550/arXiv.2603.07997" target="_blank">CMMR-VLN</a>, <a href="https://doi.org/10.48550/arXiv.2603.08007" target="_blank">ViSA-Enhanced Aerial VLN</a>” are unveiled on Arxiv! </li>
+    <li> 2026.03: &nbsp;🎉🎉 Our works “<a href="https://arxiv.org/abs/2603.09113" target="_blank">PM-Nav</a>, <a href="https://doi.org/10.48550/arXiv.2603.07997" target="_blank">CMMR-VLN</a>, <a href="https://doi.org/10.48550/arXiv.2603.08007" target="_blank">ViSA-Enhanced Aerial VLN</a>, <a href="https://arxiv.org/pdf/2603.16947" target="_blank">LightZeroNav</a>” are unveiled on Arxiv! </li>
     <li> 2025.10: &nbsp;🎉🎉 One national invention patent on <a href="https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917UQpMHd6x69ed_Qw1HzLZ-AkE2PaeUWZpFKFtQG3IacdRt0HQx8Nr7oY9ChzJVekWrUf3wQEZ7v10MSNaFDERyQKVNz9nTWaZiSEBiyqGXo_nVme1EWem3PiAzrK0RTmwocxQBlnxtkX7P2otC0BYiFZ9pORJa27TT1h9QsLoKYLA==&uniplatform=NZKPT&language=CHS" target="_blank">visual SLAM</a> is authorized!</li>
     <li> 2025.07: &nbsp;🎉🎉 Our work “<a href="https://arxiv.org/pdf/2507.13152" target="_blank">SE-VLN</a>” is unveiled on Arxiv! <a href="https://mp.weixin.qq.com/s/N45mBZE4OD5KmvyJka8N6g?scene=1&click_id=101" target="_blank">[视觉语言导航]</a></li>
     <li> 2025.06: &nbsp;🎉🎉 One national invention patent on <a href="https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917UQpMHd6x69ed_Qw1HzLZ-AkE2PaeUWZpFKFtQG3IacdRt0HQx8Nr7oY9ChzJVekWrUf3wQEZ7v10MSNaFDERyQKVNz9nTWaZiSEBiyqGXo_nVme1EWem3PiAzrK0RTmwocxQBlnxtkX7P2otC0BYiFZ9pORJa27TT1h9QsLoKYLA==&uniplatform=NZKPT&language=CHS" target="_blank">visual SLAM</a> is authorized!</li>
@@ -98,9 +98,11 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 </div>
 </div>
 - **[IROS 2026]** [ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation](https://doi.org/10.48550/arXiv.2603.08007), Haoyu Tong *, __Xiangyu Dong *__, Haoran Zhao, Yaoming Zhou <sup>†</sup>, Xiaoguang Ma <sup>†</sup>.
-- [SEMA-VLN: A Self-Evolving Multi-Agent Vision-Language Navigation Framework Based on Foundation Models](https://example.com/paper1), __Xiangyu Dong__, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Wei Meng, Zhengtao Hu.
+- [SM-VLN: A Self-Evolving Multi-Agent Vision-Language Navigation Framework Based on Foundation Models](https://example.com/paper1), __Xiangyu Dong__, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Wei Meng, Zhengtao Hu.
 - [CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval](https://doi.org/10.48550/arXiv.2603.07997), Haozhou Li *, __Xiangyu Dong *__, Huiyan Jiang, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
 - [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://arxiv.org/abs/2603.09113), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
+- [LightZeroNav: Zero-Shot Vision Language Navigation in Continuous Environments Based on Lightweight VLMs](https://arxiv.org/pdf/2603.16947), Kun Luo *, __Xiangyu Dong *__, Xiaoguang Ma <sup>†</sup>., Haoran Zhao, and Yaoming Zhou <sup>†</sup>.
+- [A Survey of Self-Evolving Embodied Agents: On the Path to Real-World Physical Intelligence](https://example.com/paper1), __Xiangyu Dong__, Zirong Zhang, Maozhi Li, Huanhuan Ke, Xiaoguang Ma <sup>†</sup>.
 - [CLOSER-VLN: Closed-Loop Self-Verified Retrieval-Augmented Reasoning for Aerial Vision-Language Navigation](https://arxiv.org/abs/2606.28397), Shaoxuan Li *, __Xiangyu Dong *__, Xiaoguang Ma <sup>†</sup>, Junfeng Chen, Haoran Zhao, Yaoming Zhou <sup>†</sup>.
 
 (co-first authors: *, corresponding authors: †)
