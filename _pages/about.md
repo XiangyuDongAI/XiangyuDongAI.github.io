@@ -86,7 +86,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 </div>
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/fig.2.png' alt="sym" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fig.2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey of Self-Evolving Embodied Agents: On the Path to Real-World Physical Intelligence](https://example.com/paper1)
@@ -94,7 +94,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 __Xiangyu Dong__, Zirong Zhang, Maozhi Li, Huanhuan Ke, Xiaoguang Ma <sup>†</sup>.
 
 [**Introduction**]((https://example.com/paper1)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This survey examines self-evolving embodied agents as a pathway toward real-world physical intelligence. It defines self-evolution as persistent capability growth through embodied interaction, memory, feedback, reflection, and updating. The paper proposes a unified closed-loop framework, reviews historical progress and key mechanisms, and discusses benchmarks, evaluation protocols, safety governance, open challenges, and future research directions for safe autonomous open-world robotic systems.
+- This survey examines self-evolving embodied agents as a route to real-world physical intelligence. It defines self-evolution through persistent growth from interaction, memory, feedback, reflection, and updating. It proposes a closed-loop framework, reviews technical progress and mechanisms, and discusses benchmarks, evaluation protocols, safety governance, challenges, and directions for open-world embodied AI.
 </div>
 </div>
 - **[IROS 2026]** [ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation](https://doi.org/10.48550/arXiv.2603.08007), Haoyu Tong *, __Xiangyu Dong *__, Haoran Zhao, Yaoming Zhou <sup>†</sup>, Xiaoguang Ma <sup>†</sup>.
