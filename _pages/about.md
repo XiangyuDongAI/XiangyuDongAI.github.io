@@ -86,18 +86,19 @@ My current research focuses on developing self-improving / self-evolving embodie
 </div>
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/se-vln.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/fig.2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models](https://arxiv.org/abs/2507.13152)
-
-__Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Yaoming Zhou <sup>†</sup>, Fuhai Chen, Juan Liu.
+[A Survey of Self-Evolving Embodied Agents: On the Path to Real-World Physical Intelligence](https://example.com/paper1)
+  
+__Xiangyu Dong__, Zirong Zhang, Maozhi Li, Huanhuan Ke, Xiaoguang Ma <sup>†</sup>.
 
 [**Introduction**]((https://example.com/paper1)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We drew inspiration from the evolution capabilities of natural agents, and proposed a self-evolving VLN framework (SE-VLN) to endow VLN agents with the ability to continuously evolve during testing. To the best of our knowledge, it was the first time that an multimodal LLM-powered training-free self-evolving VLN framework was proposed.
 </div>
 </div>
 - **[IROS 2026]** [ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation](https://doi.org/10.48550/arXiv.2603.08007), Haoyu Tong *, __Xiangyu Dong *__, Haoran Zhao, Yaoming Zhou <sup>†</sup>, Xiaoguang Ma <sup>†</sup>.
+- [SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models](https://arxiv.org/abs/2507.13152), __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Yaoming Zhou <sup>†</sup>, Fuhai Chen, Juan Liu.
 - [SM-VLN: A Self-Evolving Multi-Agent Vision-Language Navigation Framework Based on Foundation Models](https://example.com/paper1), __Xiangyu Dong__, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Wei Meng, Zhengtao Hu.
 - [CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval](https://doi.org/10.48550/arXiv.2603.07997), Haozhou Li *, __Xiangyu Dong *__, Huiyan Jiang, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
 - [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://arxiv.org/abs/2603.09113), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>.
