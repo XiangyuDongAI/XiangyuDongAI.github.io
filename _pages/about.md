@@ -86,7 +86,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 </div>
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/fig.2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fig.2.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey of Self-Evolving Embodied Agents: On the Path to Real-World Physical Intelligence](https://example.com/paper1)
