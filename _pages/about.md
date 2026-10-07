@@ -55,10 +55,10 @@ Feel free to contact me by email if you are interested in discussing or collabor
 # 📚 Research Vision
 My long-term research vision is to build embodied agents that can autonomously perceive, make decisions, and learn continually, much like humans. I aim to enable these agents to accumulate knowledge and improve their capabilities through environmental interactions and task experience, while adapting to dynamic, open-ended environments. To this end, my research interests include:
 - Recursive Self-Improvement and Self-Evolving Agents: Investigating recursive self-improvement (RSI) mechanisms that enable agents not only to enhance their capabilities but also to improve the strategies driving their own development.
-- Embodied Visual Navigation: Studying vision-and-language navigation (VLN) and object-goal navigation (ObjectNav), with an emphasis on leveraging visual observations, language, and environmental knowledge to accomplish navigation tasks.
 - Foundation Models and Training Techniques: Exploring large language models (LLMs), vision-language models (VLMs), and methods for their training and adaptation.
 - Lifelong Learning for Agents: Investigating experience accumulation, knowledge transfer, and continual learning in LLM/VLM-driven agents to support sustained capability growth through long-term interaction.
 - Vision-Language-Action Models and World Models: Exploring vision-language-action (VLA) models, world models, and their applications to perception, planning, decision-making, and action execution in embodied agents.
+- Embodied Visual Navigation: Studying vision-and-language navigation (VLN) and object-goal navigation (ObjectNav), with an emphasis on leveraging visual observations, language, and environmental knowledge to accomplish navigation tasks.
 
 
 # 🔥 News
