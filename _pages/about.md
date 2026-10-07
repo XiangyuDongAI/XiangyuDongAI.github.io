@@ -46,19 +46,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student at Northeastern University (Foshan), under the supervision of Prof. [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/0909/c6131a202809/page.htm). Recently, I am focusing on research in Agentic UAVs. Prior to this, I received my Master's degree in Electronic Information from Zhejiang University of Technology in June 2024, where my work was dedicated to developing visual Simultaneous Localization and Mapping (vSLAM) algorithms for ground mobile robots to achieve visual navigation in dynamic scenes.
+I am a first-year Ph.D. student at Northeastern University, under the supervision of Prof. [Xiaoguang Ma](https://sai.tju.edu.cn/info/1351/6301.htm) at Tianjin University. My research focuses on Agentic AI, particularly embodied agents capable of self-improvement and continual evolution. I received my master’s degree in Electronic Information from Zhejiang University of Technology in June 2024. During my master’s studies, I primarily worked on visual simultaneous localization and mapping (vSLAM) algorithms for ground mobile robots to support visual navigation in dynamic environments.
 
 More about me: [Email](dxy1999ai@163.com) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=uvRv17YAAAAJ&view_op=list_works&sortby=pubdate) / [Github](https://github.com/YourUsername) / [Curriculum Vitae](https://example.com/your-cv.pdf)
 
 Feel free to contact me by email if you are interested in discussing or collaborating with me.
 
 # 📚 Research Vision
-My current research focuses on developing self-improving / self-evolving embodied navigation agents, and exploring their applications in aerial and ground robots. In the long run, my research vision is to build an embodied agent that can autonomously perceive, make decisions, and learn continuously like humans. To achieve this, I primarily focus on:
-- Language-driven visual navigation (e.g., VLN and ObjectNav).
-- Large foundation models (e.g., LLMs and VLMs) and their training techniques.
-- Lifelong learning of LLM / VLM-powered agents.
-- Vision-Language-Action models and their applications.
-- World models and their applications.
+My long-term research vision is to build embodied agents that can autonomously perceive, make decisions, and learn continually, much like humans. I aim to enable these agents to accumulate knowledge and improve their capabilities through environmental interactions and task experience, while adapting to dynamic, open-ended environments. To this end, my research interests include:
+- Recursive Self-Improvement and Self-Evolving Agents: Investigating recursive self-improvement (RSI) mechanisms that enable agents not only to enhance their capabilities but also to improve the strategies driving their own development.
+- Embodied Visual Navigation: Studying vision-and-language navigation (VLN) and object-goal navigation (ObjectNav), with an emphasis on leveraging visual observations, language, and environmental knowledge to accomplish navigation tasks.
+- Foundation Models and Training Techniques: Exploring large language models (LLMs), vision-language models (VLMs), and methods for their training and adaptation.
+- Lifelong Learning for Agents: Investigating experience accumulation, knowledge transfer, and continual learning in LLM/VLM-driven agents to support sustained capability growth through long-term interaction.
+- Vision-Language-Action Models and World Models: Exploring vision-language-action (VLA) models, world models, and their applications to perception, planning, decision-making, and action execution in embodied agents.
+
 
 # 🔥 News
 <div class="scrollable-box">
