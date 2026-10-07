@@ -120,7 +120,7 @@ __Xiangyu Dong__, Zirong Zhang, Maozhi Li, Huanhuan Ke, Xiaoguang Ma <sup>†</s
 - *2019*: Second Prize, Nantong University "Internet +" College Student Innovation and Entrepreneurship Competition. 
 
 # 📖 Educations
-- *2026.09 - Expected*: Ph.D., College of Information Science and Engineering, Northeastern University, Shenyang, China.
+- *2026.09 - Present*: Ph.D., College of Information Science and Engineering, Northeastern University, Shenyang, China.
 - *2021.09 - 2024.06*: Master, College of Information Engineering, Zhejiang University of Technology, Hangzhou, China. 
 - *2017.09 - 2021.06*: Bachelor, School of Transportation and Civil Engineering, Nantong University, Nantong, China. 
 
@@ -128,8 +128,8 @@ __Xiangyu Dong__, Zirong Zhang, Maozhi Li, Huanhuan Ke, Xiaoguang Ma <sup>†</s
 - *2023.05*: “A Robust Visual SLAM Based on Key Point Instantaneous Rate Identification in Dynamic Environments”, 2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). 
 
 # 💻 Internships
-- *2025.05 - Present*: [Beihang University--Tianmushan Laboratory](https://www.tmslab.cn/), co-supervisor: Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm). 
+- *2025.05 - 2026.08*: [Beihang University--Tianmushan Laboratory](https://www.tmslab.cn/), co-supervisor: Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm). 
 - *2024.05 - 2026.08*: [Northeastern University](http://www.fsgraduate.neu.edu.cn/), supervisor: Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/1108/c6151a206223/page.htm).
 
 # 🛠 Social Services
-- Reviewer: AAAI 2026, IROS2026.
+- Reviewer: AAAI 2026, IROS2026, ICRA2027.
