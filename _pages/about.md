@@ -132,4 +132,4 @@ __Xiangyu Dong__, Zirong Zhang, Maozhi Li, Huanhuan Ke, Xiaoguang Ma <sup>†</s
 - *2024.05 - 2026.08*: [Northeastern University](http://www.fsgraduate.neu.edu.cn/), supervisor: Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/1108/c6151a206223/page.htm).
 
 # 🛠 Social Services
-- Reviewer: AAAI 2026, IROS2026, ICRA2027.
+- Reviewer: AAAI 2026/2027, IROS2026, ICRA2027.
