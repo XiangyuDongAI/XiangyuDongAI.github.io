@@ -89,7 +89,7 @@ My long-term research vision is to build embodied agents that can autonomously p
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/fig.2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey of Self-Evolving Embodied Agents: On the Path to Real-World Physical Intelligence](https://example.com/paper1)
+[A Survey of Self-Evolving Embodied Agents: On the Path to Real-World Physical Intelligence](https://www.preprints.org/manuscript/202611.0739)
 
 __Xiangyu Dong__, Zirong Zhang, Maozhi Li, Huanhuan Ke, Xiaoguang Ma <sup>†</sup>.
 
